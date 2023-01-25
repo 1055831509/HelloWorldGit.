@@ -3,4 +3,22 @@
 ### cabecera H3
 #### cabecera H4
 ##### cabecera H5
-soy un readme
+###### cabecera H6
+ 
+ underline 1
+ =
+ underline 2
+ ---
+ underline
+ ====
+
+ - letra *italica*
+ -
+ - formato tachado
+ 
+ -letra forma __bold__.
+
+ -letra forma **hola** bold
+
+ -
+ -letra *italica*
